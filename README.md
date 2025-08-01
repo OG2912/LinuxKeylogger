@@ -1,2 +1,12 @@
 # LinuxKeylogger
-A lightweight Python-based keylogger for Linux systems using the pynput library. Captures keyboard input and logs it to a file. Ideal for ethical hacking labs, keylogging demonstrations, or research on input monitoring.
+
+## 🕵️ Basic Linux Keylogger (Python)
+
+Logs keystrokes to a hidden file inside the user's home directory. For **educational** and **authorized security testing** only.
+
+---
+
+### ⚙️ Requirements
+
+```bash
+pip install pynput
